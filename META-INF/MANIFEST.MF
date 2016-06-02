@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Built-By: rasingh
+Build-Jdk: 1.7.0_80
+Created-By: Apache Maven 3.3.9
+Main-Class: HiveJdbcClient
+Archiver-Version: Plexus Archiver
+
