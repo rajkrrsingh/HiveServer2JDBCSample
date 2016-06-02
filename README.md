@@ -1,0 +1,1 @@
+# HiveServer2JDBCSample
