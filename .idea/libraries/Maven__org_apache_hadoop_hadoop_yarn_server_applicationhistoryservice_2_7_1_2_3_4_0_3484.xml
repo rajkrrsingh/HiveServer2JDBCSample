@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.hadoop:hadoop-yarn-server-applicationhistoryservice:2.7.1.2.3.4.0-3484">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-yarn-server-applicationhistoryservice/2.7.1.2.3.4.0-3484/hadoop-yarn-server-applicationhistoryservice-2.7.1.2.3.4.0-3484.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-yarn-server-applicationhistoryservice/2.7.1.2.3.4.0-3484/hadoop-yarn-server-applicationhistoryservice-2.7.1.2.3.4.0-3484-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-yarn-server-applicationhistoryservice/2.7.1.2.3.4.0-3484/hadoop-yarn-server-applicationhistoryservice-2.7.1.2.3.4.0-3484-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

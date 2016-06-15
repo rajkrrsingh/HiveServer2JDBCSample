@@ -1,0 +1,33 @@
+2016-06-14 22:43:44 INFO  Utils:312 - Supplied authorities: 127.0.0.1:10000
+2016-06-14 22:43:44 INFO  Utils:428 - Resolved authority: 127.0.0.1:10000
+2016-06-14 22:43:44 DEBUG TSaslTransport:261 - opening transport org.apache.thrift.transport.TSaslClientTransport@413ded77
+2016-06-14 22:43:44 DEBUG TSaslClientTransport:96 - Sending mechanism name PLAIN and initial response of length 10
+2016-06-14 22:43:44 DEBUG TSaslTransport:162 - CLIENT: Writing message with status START and payload length 5
+2016-06-14 22:43:44 DEBUG TSaslTransport:162 - CLIENT: Writing message with status COMPLETE and payload length 10
+2016-06-14 22:43:44 DEBUG TSaslTransport:273 - CLIENT: Start message handled
+2016-06-14 22:43:44 DEBUG TSaslTransport:296 - CLIENT: Main negotiation loop complete
+2016-06-14 22:43:44 DEBUG TSaslTransport:306 - CLIENT: SASL Client receiving last message
+2016-06-14 22:43:44 DEBUG TSaslTransport:206 - CLIENT: Received message with status COMPLETE and payload length 0
+2016-06-14 22:43:44 DEBUG TSaslTransport:498 - writing data length: 68
+2016-06-14 22:43:44 DEBUG TSaslTransport:459 - CLIENT: reading data length: 109
+2016-06-14 22:43:44 DEBUG TSaslTransport:498 - writing data length: 121
+2016-06-14 22:43:44 DEBUG TSaslTransport:459 - CLIENT: reading data length: 109
+2016-06-14 22:43:44 DEBUG TSaslTransport:498 - writing data length: 100
+2016-06-14 22:43:44 DEBUG TSaslTransport:459 - CLIENT: reading data length: 53
+2016-06-14 22:43:44 DEBUG TSaslTransport:498 - writing data length: 102
+2016-06-14 22:43:44 DEBUG TSaslTransport:459 - CLIENT: reading data length: 136
+2016-06-14 22:43:44 DEBUG TSaslTransport:498 - writing data length: 112
+2016-06-14 22:43:44 DEBUG TSaslTransport:459 - CLIENT: reading data length: 203
+2016-06-14 22:43:44 DEBUG HiveQueryResultSet:380 - Fetched row string: 
+2016-06-14 22:43:44 DEBUG HiveQueryResultSet:380 - Fetched row string: 
+2016-06-14 22:43:44 DEBUG HiveQueryResultSet:380 - Fetched row string: 
+2016-06-14 22:43:44 DEBUG HiveQueryResultSet:380 - Fetched row string: 
+2016-06-14 22:43:44 DEBUG HiveQueryResultSet:380 - Fetched row string: 
+2016-06-14 22:43:44 DEBUG HiveQueryResultSet:380 - Fetched row string: 
+2016-06-14 22:43:44 DEBUG HiveQueryResultSet:380 - Fetched row string: 
+2016-06-14 22:43:44 DEBUG TSaslTransport:498 - writing data length: 112
+2016-06-14 22:43:44 DEBUG TSaslTransport:459 - CLIENT: reading data length: 96
+2016-06-14 22:43:44 DEBUG TSaslTransport:498 - writing data length: 96
+2016-06-14 22:43:44 DEBUG TSaslTransport:459 - CLIENT: reading data length: 42
+2016-06-14 22:43:44 DEBUG TSaslTransport:498 - writing data length: 83
+2016-06-14 22:43:44 DEBUG TSaslTransport:459 - CLIENT: reading data length: 40
