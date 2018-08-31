@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.hadoop:hadoop-mapreduce-client-core:2.7.3.2.6.1.0-129">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.7.3.2.6.1.0-129/hadoop-mapreduce-client-core-2.7.3.2.6.1.0-129.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.7.3.2.6.1.0-129/hadoop-mapreduce-client-core-2.7.3.2.6.1.0-129-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.7.3.2.6.1.0-129/hadoop-mapreduce-client-core-2.7.3.2.6.1.0-129-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
