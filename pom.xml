@@ -8,7 +8,7 @@
     <artifactId>HiveServer2JDBCSample</artifactId>
     <version>1.0-SNAPSHOT</version>
     <properties>
-        <hive.version>3.1.0.3.1.0.0-78</hive.version>
+        <hive.version>3.1.1</hive.version>
         <hadoop.version>3.1.1.3.1.0.0-78</hadoop.version>
     </properties>
     <repositories>
